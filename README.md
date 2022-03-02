@@ -7,7 +7,9 @@ Mechano-acoustic-sensor gender classification
 # Information
 
 tool : python - jupyter notebook
+
 enviroment : Anaconda (virtural enviroment)
+
 language : python
 
 using board : NRF52dk - Bluetooth Low Energy (BLE - 1000HZ)
