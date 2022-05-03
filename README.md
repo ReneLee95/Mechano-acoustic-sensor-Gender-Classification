@@ -14,4 +14,6 @@ language : python
 
 using board : NRF52dk - Bluetooth Low Energy (BLE - 1000HZ)
 
+acc : 97%
+
 Maker : LEE SANG HOON
